@@ -1,0 +1,1 @@
+The android program for get determinate of matrix of complexity numbers.
